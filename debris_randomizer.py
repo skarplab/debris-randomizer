@@ -1,8 +1,6 @@
 from copy import deepcopy
 import json
 
-from arcgis.gis import GIS
-from arcgis import features
 import pandas as pd
 import numpy as np
 
