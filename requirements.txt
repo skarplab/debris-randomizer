@@ -1,0 +1,6 @@
+arcgis
+geopandas
+numpy
+pandas
+pip
+shapely
