@@ -55,6 +55,7 @@ def main():
     new_feature.geometry = output_geometry[0]
     new_feature.attributes['DETAILS'] = None
     new_feature.attributes['STATUS'] = 'Submitted'
+    new_feature.attributes['STNAME'] = None
 
     new_feature_list.append(new_feature)
     
